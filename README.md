@@ -15,7 +15,7 @@ Version 201.0
 - created the include folder 
 - created the header.inc.php and footer.inc.php files
 
-Version 201.0 
+Version 202.0 
 - replaced navigation menu with top level pages by creating a function and array to dynamically create the menu (love who, challenges, you)
 - created the functions.inc.php file
      - created the menuBuilder function
